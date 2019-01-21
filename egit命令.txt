@@ -1,0 +1,19 @@
+﻿    1  git config --global user.email "180@183.cn"
+    2  git config --global user.email
+    3  ssh-keygen -t rsa -C "180@183.cn"
+    4  git init
+    5  git add Hello.java
+    6  git commit -m "first commit"
+    7  git remote add origin git@github.com:Porter6/hello.git
+    8  git push -u origin master
+    9  git remote add origin git@github.com:Porter6/hello.git
+   10  git push -u origin master
+   11  git push -u origin master
+   12  git add Hello.java
+   13  git commit -m "second commit"
+   14  git status
+   15  git push -u origin master
+   16  git status
+   17  doskey HISTORY
+   18  history
+   19  history > e:\git命令.txt
