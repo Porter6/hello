@@ -17,3 +17,4 @@
    17  doskey HISTORY
    18  history
    19  history > e:\git命令.txt
+ git clone https://github.com/Porter6/leetCodePractices.git //把官网的仓库克隆到本地
